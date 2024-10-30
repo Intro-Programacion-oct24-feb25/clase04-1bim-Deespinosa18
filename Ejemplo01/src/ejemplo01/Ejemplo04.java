@@ -18,5 +18,6 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // la diferencia entre el "soutln" y el "sout" es el tema de como se presenta la impresion en las lineas de codigo.
     }
 }
